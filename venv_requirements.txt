@@ -1,0 +1,8 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install jupyter notebook
+pip install scikit-learn
+pip install numpy
+pip install category_encoders
+pip install openpyxl
