@@ -1,6 +1,10 @@
 # DSML_projeto
 # Ideias
 
+Ver duplicados 
+Ver Valores Incongruentes
+Ver Nan Coluna a Coluna
+
 Name: passar a coluna name para M/F. **done**
 Birthyear: bins das decadas?/idade?
 Education: one hot para a educação/ passar para low, medium high? ? passar minusculas para maiusculas / meter o nan como o valor mais comum? Preencher com k neighbors?
