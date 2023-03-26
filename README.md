@@ -1,20 +1,56 @@
 # DSML_projeto
 # Ideias
 
-Ver duplicados 
-Ver Valores Incongruentes
-Ver Nan Coluna a Coluna
+## Importação e limpeza 
 
-Name: passar a coluna name para M/F. **done**
-Birthyear: bins das decadas?/idade?
-Education: one hot para a educação/ passar para low, medium high? ? passar minusculas para maiusculas / meter o nan como o valor mais comum? Preencher com k neighbors?
-Income: Ver se tem valores estranhos. Min max scaling ?
-Kid_younger6: Ver se tem valores estranhos (floats ou negativos ou nan) / preencher nan com 0?
-Children_6to18: Ver acima
-Response_cmp1-4: ver se nao tem nada estranho
-Date adherence: passar data de adesao para o tempo de adesao? datetime- date adherence
-Recency: ver se não tem valores estranhos (negativos, floats)
-Mnt???: ver acima, computar a soma de todos?
-Num???Purchases: ver acima
-NumAppVisits: ver se nao tem valores estranhos
-Complain: ver acima
+Ver duplicados e eliminar **done** <br>
+Ver Nan Coluna a Coluna **done** <br>
+
+## Visualização
+
+histplots de todas as var continuas (Mnt...) <br>
+countplots de todas as categoricas <br>
+scatterplots mnt... vs education, income, marital status, kids, numapp store ..., <br>
+scatterplots num... vs income, marital status, kids, mnt ... <br>
+stripplots education vs income, mnt... , <br>
+fazer o ydata profiling <br>
+boxplots <br>
+
+## Ver valores incongruentes
+
+Ver dinheiro gasto e visitas menor ou igual a 0 <br>
+Adicionar testes/ condiçoes verificadas <br>
+
+## Transformação e preenchimento de missing values
+
+Name: passar a coluna name para M/F. **done** <br>
+Birthyear: bins das decadas?/idade?  ver os 'buracos' nas idades <br>
+Education: one hot para a educação/ passar para low, medium high? ? passar minusculas para maiusculas / meter o nan com moda/k neighbours (?) **done** <br>
+Kid_younger6: Ver se tem nan / preencher nan com 0? **done** <br> 
+Children_6to18: Ver acima **done** <br>
+Response_cmp1-4: ver se tem nan <br>
+Date adherence: passar data de adesao para o tempo de adesao em dias ? datetime- date adherence <br>
+Recency: ver se não tem valores estranhos (negativos, floats) <br>
+Mnt???: ver valores negativos, computar a soma de todos? <br>
+Num???Purchases: ver acima <br>
+NumAppVisits: ver se tem valores negativos ou floats <br>
+Complain: ver valores negativos ou floats <br>
+
+## Scaling e normalização
+
+Minmax
+standard scaling
+power transform
+
+## PCA
+
+## Implementaçao dos modelos
+
+DBScan
+kmeans
+IMM
+
+## Métricas
+
+inter-cluster distance
+
