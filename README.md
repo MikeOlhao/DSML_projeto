@@ -10,7 +10,7 @@ Ver Nan Coluna a Coluna **done** <br>
 
 histplots de todas as var continuas (Mnt...) <br>
 countplots de todas as categoricas <br>
-scatterplots mnt... vs education, income, marital status, kids, numapp store ..., <br>
+scatterplots mnt... vs education, income **done**, marital status, kids **done**, numapp store ..., <br>
 scatterplots num... vs income, marital status, kids, mnt ... <br>
 stripplots education vs income, mnt... , <br>
 fazer o ydata profiling <br>
