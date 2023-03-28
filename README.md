@@ -8,9 +8,9 @@ Ver Nan Coluna a Coluna **done** <br>
 
 ## Visualização
 
-histplots de todas as var continuas (Mnt...) <br>
+histplots de todas as var continuas (Mnt...) **done** <br> 
 countplots de todas as categoricas <br>
-scatterplots mnt... vs education, income **done**, marital status, kids **done**, numapp store ..., <br>
+scatterplots mnt... vs education **done**, income **done**, marital status **done**, kids **done**, numapp store ..., <br>
 scatterplots num... vs income, marital status, kids, mnt ... <br>
 stripplots education vs income, mnt... , <br>
 fazer o ydata profiling <br>
