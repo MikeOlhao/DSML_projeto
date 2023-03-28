@@ -18,8 +18,8 @@ boxplots <br>
 
 ## Ver valores incongruentes
 
-Ver dinheiro gasto e visitas menor ou igual a 0 <br>
-Adicionar testes/ condiçoes verificadas <br>
+Ver dinheiro gasto e visitas menor ou igual a 0 **done** <br> 
+Adicionar testes/ condiçoes verificadas **done** <br>
 
 ## Transformação e preenchimento de missing values
 
