@@ -18,8 +18,8 @@ boxplots <br>
 
 ## Ver valores incongruentes
 
-Ver dinheiro gasto e visitas menor ou igual a 0 <br>
-Adicionar testes/ condiçoes verificadas <br>
+Ver dinheiro gasto e visitas menor ou igual a 0 **done** <br> 
+Adicionar testes/ condiçoes verificadas **done** <br>
 
 ## Transformação e preenchimento de missing values
 
@@ -30,11 +30,12 @@ Kid_younger6: Ver se tem nan / preencher nan com 0? **done** <br>
 Children_6to18: Ver acima **done** <br>
 Response_cmp1-4: ver se tem nan <br>
 Date adherence: passar data de adesao para o tempo de adesao em dias ? datetime- date adherence <br>
-Recency: ver se não tem valores estranhos (negativos, floats) <br>
-Mnt???: ver valores negativos, computar a soma de todos? <br>
-Num???Purchases: ver acima <br>
-NumAppVisits: ver se tem valores negativos ou floats <br>
-Complain: ver valores negativos ou floats <br>
+Recency: ver se não tem valores estranhos (negativos, floats) **done** <br>
+Recebcy e Mnt Drinks : corrigir missing values <br> **done**
+Mnt???: ver valores negativos, computar a soma de todos? **done** <br>
+Num???Purchases: ver acima **done** <br>
+NumAppVisits: ver se tem valores negativos ou floats **done** <br>
+Complain: ver valores negativos ou floats <br> **done**
 
 ## Scaling e normalização
 
