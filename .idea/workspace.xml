@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="r">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DSML_202223_Clusters_Group09_Notebook-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DSML_202223_Clusters_Group09_Notebook-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,5 +45,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="r" />
+    <option name="LAST_COMMIT_MESSAGE" value="r" />
   </component>
 </project>
