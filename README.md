@@ -13,7 +13,7 @@ countplots de todas as categoricas <br>
 scatterplots mnt... vs education **done**, income **done**, marital status **done**, kids **done**, numapp store ..., <br>
 scatterplots num... vs income, marital status, kids, mnt ... <br>
 stripplots education vs income, mnt... , <br>
-fazer o ydata profiling <br>
+fazer o ydata profiling **done** <br>
 boxplots <br>
 
 ## Ver valores incongruentes
