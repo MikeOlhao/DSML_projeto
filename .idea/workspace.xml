@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +17,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NgasA6g8OyZqH7H5RcTpL5mtJP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
