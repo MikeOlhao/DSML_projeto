@@ -28,7 +28,7 @@ Birthyear: bins das decadas?/idade?  ver os 'buracos' nas idades <br>
 Education: one hot para a educação/ passar para low, medium high? ? passar minusculas para maiusculas / meter o nan com moda/k neighbours (?) **done** <br>
 Kid_younger6: Ver se tem nan / preencher nan com 0? **done** <br> 
 Children_6to18: Ver acima **done** <br>
-Response_cmp1-4: ver se tem nan <br>
+Response_cmp1-4: ver se tem nan **done** <br>
 Date adherence: passar data de adesao para o tempo de adesao em dias ? datetime- date adherence **done** <br>
 Recency: ver se não tem valores estranhos (negativos, floats) **done** <br>
 Recebcy e Mnt Drinks : corrigir missing values <br> **done**
