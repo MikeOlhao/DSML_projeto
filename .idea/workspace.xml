@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="Create dsml_exp2.ipynb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="PCA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,5 +52,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PCA" />
+    <option name="LAST_COMMIT_MESSAGE" value="PCA" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
