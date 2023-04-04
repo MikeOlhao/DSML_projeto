@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="atualização master">
+    <list default="true" id="4316b0f8-da01-42f0-b4db-d8ff93fa1e1d" name="Changes" comment="values to value">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSML_202223_Clusters_Group09_Notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -25,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,7 +49,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="celso2" />
+                        <option value="master-celso" />
                       </list>
                     </value>
                   </entry>
@@ -58,18 +63,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PCA" />
-    <MESSAGE value="atualização master" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualização master" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="values to value" />
+    <option name="LAST_COMMIT_MESSAGE" value="values to value" />
   </component>
 </project>
